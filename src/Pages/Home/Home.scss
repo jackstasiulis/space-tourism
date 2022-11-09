@@ -1,0 +1,8 @@
+@use '../../Styles/Partials/variables.scss' as *;
+@use '../../Styles/Partials/mixins.scss' as *;
+
+body{
+    background: url(../../assets/home/background-home-mobile.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
